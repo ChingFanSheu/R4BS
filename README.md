@@ -7,5 +7,6 @@
 
 - [第一章: 資料檢視](https://github.com/ChingFanSheu/mvsa/tree/master/Ch01) 
 - [第二章: 相關分析](https://github.com/ChingFanSheu/R4BS/tree/main/Ch02)
+- [第三章: 迴歸分析](https://github.com/ChingFanSheu/R4BS/tree/main/Ch03)
 - [第五章: 多層次分析](https://github.com/ChingFanSheu/ml/tree/master/Ch05)
 
