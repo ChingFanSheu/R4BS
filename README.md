@@ -9,5 +9,5 @@
 - [第二章: 相關分析](https://github.com/ChingFanSheu/R4BS/tree/main/Ch02)
 - [第三章: 迴歸分析](https://github.com/ChingFanSheu/R4BS/tree/main/Ch03)
 - [第五章: 多層次分析](https://github.com/ChingFanSheu/ml/tree/master/Ch05)
-- [第十一章: 邏輯式迴歸](https://github.com/ChingFanSheu/ml/tree/master/Ch11)
+- [第十一章: 邏輯式迴歸](https://github.com/ChingFanSheu/R4BS/tree/master/Ch11)
 
