@@ -12,7 +12,7 @@ Sys.setlocale(category = "LC_ALL", locale = "cht")
 
 ``` r
 #讀資料
-fLoc <-"http://myweb.ncku.edu.tw/~cpcheng/Rbook/11/datanew/married.txt"
+fLoc <-"https://raw.githubusercontent.com/ChingFanSheu/R4BS/main/Data/married.txt"
 dta <- read.table(fLoc, header = T, fileEncoding = 'big5')
 ```
 
