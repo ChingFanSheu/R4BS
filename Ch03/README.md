@@ -13,7 +13,7 @@ Sys.setlocale(category = "LC_ALL", locale = "cht")
 ``` r
 #資料來自於 TIMSS 2011 年台灣資料
 #讀檔案
-fLoc <- "http://myweb.ncku.edu.tw/~csheu/Rbook/03/data/TIMSS2011TW.txt"
+fLoc <- "https://cpcheng.neocities.org/Rbook/03/data/TIMSS2011TW.txt"
 dta <- read.table(fLoc, header = TRUE)
 ```
 
